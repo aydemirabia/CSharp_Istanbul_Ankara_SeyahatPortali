@@ -1,0 +1,17 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\IstanbulAnkaraSeyahatPortalı\bin\Debug\IstanbulAnkaraSeyahatPortalı.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\IstanbulAnkaraSeyahatPortalı\bin\Debug\IstanbulAnkaraSeyahatPortalı.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\IstanbulAnkaraSeyahatPortalı\bin\Debug\IstanbulAnkaraSeyahatPortalı.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\IstanbulAnkaraSeyahatPortalı\obj\Debug\IstanbulAnkaraSeyahatPortalı.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\IstanbulAnkaraSeyahatPortalı\obj\Debug\IstanbulAnkaraSeyahatPortalı.Form1.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\IstanbulAnkaraSeyahatPortalı\obj\Debug\IstanbulAnkaraSeyahatPortalı.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\IstanbulAnkaraSeyahatPortalı\obj\Debug\IstanbulAnkaraSeyahatPortalı.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\IstanbulAnkaraSeyahatPortalı\obj\Debug\IstanbulAnkaraSeyahatPortalı.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\IstanbulAnkaraSeyahatPortalı\obj\Debug\IstanbulAnkaraSeyahatPortalı.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\IstanbulAnkaraSeyahatPortalı\obj\Debug\IstanbulAnkaraSeyahatPortalı.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\IstanbulAnkaraSeyahatPortalı\bin\Debug\Interop.WMPLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\IstanbulAnkaraSeyahatPortalı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\IstanbulAnkaraSeyahatPortalı\obj\Debug\Interop.WMPLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\IstanbulAnkaraSeyahatPortalı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\IstanbulAnkaraSeyahatPortalı\obj\Debug\IstanbulAnkaraSeyahatPortalı.csproj.ResolveComReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\IstanbulAnkaraSeyahatPortalı\obj\Debug\IstanbulAnkaraSeyahatPortalı.FrmBiletAlani.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\IstanbulAnkaraSeyahatPortalı\obj\Debug\IstanbulAnkaraSeyahatPortalı.FrmYolcuBilgileri.resources
